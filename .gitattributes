@@ -1,0 +1,4 @@
+*.html linguist-language=Python
+dashboards/* linguist-vendored
+dashboard/* linguist-vendored
+*.css linguist-documentation
