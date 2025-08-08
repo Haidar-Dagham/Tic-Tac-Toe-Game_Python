@@ -14,6 +14,15 @@ A fun, interactive **Tic-Tac-Toe** game made using Python and Tkinter. Play agai
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <strong>'Tic-Tac-Toe Game' Desktop View</strong><br>
+  <img src="Screenshot.png" width="600" alt="Desktop Screenshot">
+</p>
+
+---
+
 ## 🚀 How to Run
 
 ### 🐍 From Python Source
